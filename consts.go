@@ -10,7 +10,7 @@ const (
 	Enquiry                 byte =   5
 	Acknowledgment          byte =   6
 	Bell                    byte =   7
-	BackSpace               byte =   8
+	Backspace               byte =   8
 	HorizontalTab           byte =   9
 	LineFeed                byte =  10
 	VerticalTab             byte =  11
