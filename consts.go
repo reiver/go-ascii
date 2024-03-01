@@ -34,6 +34,7 @@ const (
 	GroupSeparator          byte =  29
 	RecordSeparator         byte =  30
 	UnitSeparator           byte =  31
+	Space                   byte =  32
 	// ...
 	Delete                  byte = 127
 )
