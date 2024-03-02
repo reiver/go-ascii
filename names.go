@@ -38,3 +38,8 @@ const (
 	// ...
 	Delete                  = DEL
 )
+
+const (
+	TransmitOn  = XON
+	TransmitOff = XOFF
+)

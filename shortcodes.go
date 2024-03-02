@@ -38,3 +38,8 @@ const (
 	// ...
 	DEL = 0x7F
 )
+
+const (
+	XON  = DC1
+	XOFF = DC3
+)
