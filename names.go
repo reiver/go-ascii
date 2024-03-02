@@ -1,6 +1,6 @@
 package ascii
 
-
+// ASCII names.
 const (
 	Null                    byte =   0
 	StartOfHeading          byte =   1
