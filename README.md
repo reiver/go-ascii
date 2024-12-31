@@ -35,3 +35,21 @@ default:
 	// ...
 }
 ```
+
+## Import
+
+To import package **ascii** use `import` code like the following:
+```
+import "github.com/reiver/go-ascii"
+```
+
+## Installation
+
+To install package **ascii** do the following:
+```
+GOPROXY=direct go get github.com/reiver/go-ascii
+```
+
+## Author
+
+Package **ascii** was written by [Charles Iliya Krempeaux](http://reiver.link)
