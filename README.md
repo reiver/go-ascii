@@ -1,6 +1,6 @@
 # go-ascii
 
-A library that provides tools for working with ASCII characters, for the Go programming language.
+Package **ascii** provides tools for working with ASCII characters, for the Go programming language.
 
 
 ## Documention
@@ -11,6 +11,7 @@ Online documentation, which includes examples, can be found at: http://godoc.org
 
 
 ## Example
+
 ```
 import (
 	"github.com/reiver/go-ascii"
