@@ -12,6 +12,8 @@ Online documentation, which includes examples, can be found at: http://godoc.org
 
 ## Example
 
+Here is an example of using the longer versions of the ASCII constants:
+
 ```
 import (
 	"github.com/reiver/go-ascii"
@@ -31,6 +33,33 @@ case ascii.HorizontalTab:
 case ascii.LineFeed:
 	// ...
 case ascii.Delete:
+	// ...
+default:
+	// ...
+}
+```
+
+Here is an example of using the longer versions of the ASCII constants:
+
+```
+import (
+	"github.com/reiver/go-ascii"
+)
+
+// ...
+
+var byte b
+
+// ...
+
+switch b {
+case ascii.BS
+	// ...
+case ascii.HT:
+	// ...
+case ascii.LF:
+	// ...
+case ascii.DEL:
 	// ...
 default:
 	// ...
