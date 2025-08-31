@@ -5,9 +5,9 @@ Package **ascii** provides tools for working with ASCII characters, for the Go p
 
 ## Documention
 
-Online documentation, which includes examples, can be found at: http://godoc.org/github.com/reiver/go-ascii
+Online documentation, which includes examples, can be found at: http://godoc.org/codeberg.org/reiver/go-ascii
 
-[![GoDoc](https://godoc.org/github.com/reiver/go-ascii?status.svg)](https://godoc.org/github.com/reiver/go-ascii)
+[![GoDoc](https://godoc.org/codeberg.org/reiver/go-ascii?status.svg)](https://godoc.org/codeberg.org/reiver/go-ascii)
 
 
 ## Example
@@ -16,7 +16,7 @@ Here is an example of using the longer versions of the ASCII constants:
 
 ```
 import (
-	"github.com/reiver/go-ascii"
+	"codeberg.org/reiver/go-ascii"
 )
 
 // ...
@@ -43,7 +43,7 @@ Here is an example of using the longer versions of the ASCII constants:
 
 ```
 import (
-	"github.com/reiver/go-ascii"
+	"codeberg.org/reiver/go-ascii"
 )
 
 // ...
@@ -70,14 +70,14 @@ default:
 
 To import package **ascii** use `import` code like the following:
 ```
-import "github.com/reiver/go-ascii"
+import "codeberg.org/reiver/go-ascii"
 ```
 
 ## Installation
 
 To install package **ascii** do the following:
 ```
-GOPROXY=direct go get github.com/reiver/go-ascii
+GOPROXY=direct go get codeberg.org/reiver/go-ascii
 ```
 
 ## Author
